@@ -3,4 +3,5 @@
 Shlok Jain
 20373491
 
-![Screenshot](Screenshot (1).png)
+![screencap](https://github.com/shloker/comp3111-lab1-demo/blob/master/screencap.png)
+
